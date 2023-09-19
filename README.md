@@ -1,2 +1,5 @@
-# cloud-tarea-2
-Cloud Computing - Tarea 2
+Tarea 2 - cloud Computing
+
+Integrantes:
+- Fabrizio Franco
+- Jonathan Prieto
